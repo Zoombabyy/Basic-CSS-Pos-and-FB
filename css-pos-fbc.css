@@ -1,0 +1,235 @@
+/*       To Uncomment, select, then press ctrl + /       */
+
+/*       Copy (crtl+C) Paste (crtl+V)       */
+
+body {
+  background-color: rgb(163, 158, 158);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+  /*       Please comment out below when switching to Flexbox Container, comment back in when finished         */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*       Please comment out above when switching to Flexbox Container, comment back in when finished        */
+}
+
+/*       Static Positioning       */
+
+/* .main-box {
+  padding: 10px;
+  position: static;
+  background-color: rgb(61, 202, 245);
+  width: 1000px;
+  height: 625px;
+}
+
+.box-one {
+  position: static;
+  background-color: rgb(105, 224, 94);
+  height: 200px;
+}
+
+.box-two {
+  position: static;
+  background-color: rgb(248, 117, 117);
+  height: 200px;
+}
+
+.box-three {
+  position: static;
+  background-color: rgb(255, 170, 101);
+  height: 200px;
+} */
+
+/*       Relative Positioning        */
+
+/* .main-box {
+  padding: 10px;
+  background-color: rgb(61, 202, 245);
+  width: 1000px;
+  height: 625px;
+}
+
+.box-one {
+  position: relative;
+  background-color: rgb(105, 224, 94);
+  height: 200px;
+}
+
+.box-two {
+  background-color: rgb(248, 117, 117);
+  height: 200px;
+}
+
+.box-three {
+  background-color: rgb(255, 170, 101);
+  height: 200px;
+} */
+
+/*       Relative Positioning with Top, Bottom, Left and Right       */
+
+/*       Please copy below and paste to box-one class, enter any number in the "??"       */
+
+/*       Please change "0px" in the top property        */
+
+/*       bottom: ??px;       */
+/*       left: ??px;       */
+/*       right: ??px;       */
+
+/* .main-box {
+  padding: 10px;
+  background-color: rgb(61, 202, 245);
+  width: 1000px;
+  height: 625px;
+}
+
+.box-one {
+  position: relative;
+  background-color: rgb(105, 224, 94);
+  height: 200px;
+  top: 0px;
+}
+
+.box-two {
+  background-color: rgb(248, 117, 117);
+  height: 200px;
+}
+
+.box-three {
+  background-color: rgb(255, 170, 101);
+  height: 200px;
+} */
+
+/*       Absolute Positioning       */
+
+/* .main-box {
+  padding: 10px;
+  position: static;
+  background-color: rgb(61, 202, 245);
+  width: 1000px;
+  height: 625px;
+}
+
+.box-one {
+  position: absolute;
+  background-color: rgb(105, 224, 94);
+  height: 200px;
+  top: 0px;
+}
+
+.box-two {
+  background-color: rgb(248, 117, 117);
+  height: 200px;
+}
+
+.box-three {
+  background-color: rgb(255, 170, 101);
+  height: 200px;
+} */
+
+/*       Fixed Positioning       */
+
+/*  .main-box {
+  padding: 10px;
+  position: relative;
+  background-color: rgb(61, 202, 245);
+  width: 1000px;
+  height: 625px;
+  top: 0px;
+}
+
+.box-one {
+  position: fixed;
+  background-color: rgb(105, 224, 94);
+  height: 200px;
+  top: 0px;
+}
+
+.box-two {
+  background-color: rgb(248, 117, 117);
+  height: 200px;
+}
+
+.box-three {
+  background-color: rgb(255, 170, 101);
+  height: 200px;
+} */
+
+/*       Sticky Positioning       */
+
+/* .main-box {
+  padding: 10px;
+  position: relative;
+  background-color: rgb(61, 202, 245);
+  width: 1000px;
+  height: 625px;
+  top: 0px;
+}
+
+.box-one {
+  position: sticky;
+  background-color: rgb(105, 224, 94);
+  height: 200px;
+  top: 0px;
+}
+
+.box-two {
+  background-color: rgb(248, 117, 117);
+  height: 200px;
+}
+
+.box-three {
+  background-color: rgb(255, 170, 101);
+  height: 200px;
+} */
+
+/*       Flexbox Container       */
+
+/*       Please comment out below in the body tag before continuing, comment back in when finished       */
+
+/* display: flex;
+  align-items: center;
+  justify-content: center; */
+
+/*       Please comment out above in the body tag before continuing, comment back in when finished       */
+
+/*       Please copy below and paste in the main-box class       */
+
+/*       flex-direction: row;       */
+/*       flex-direction: column;       */
+/*       flex-direction: row-reverse;       */
+/*       flex-direction: column-reverse;       */
+/*       justify-content: center;       */
+/*       justify-content: flex-start;       */
+/*       justify-content: flex-end;       */
+/*       justify-content: space-around;       */
+/*       justify-content: space-evenly;       */
+/*       justify-content: space-between;       */
+/*       align-items: center;       */
+/*       align-items: flex-start;       */
+/*       align-items: flex-end;       */
+
+/* .main-box {
+  display: flex;
+  
+}
+
+ .box-one {
+  background-color: rgb(61, 202, 245);
+  width: 425px;
+  height: 425px;
+}
+
+.box-two {
+  background-color: rgb(105, 224, 94);
+  width: 425px;
+  height: 425px;
+ }
+
+ .box-three { 
+  background-color: rgb(255, 170, 101);
+  width: 425px;
+  height: 425px;
+} */
