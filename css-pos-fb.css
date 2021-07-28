@@ -17,7 +17,7 @@ body {
 
 /*       Static Positioning       */
 
-/* .main-box {
+.main-box {
   padding: 10px;
   position: static;
   background-color: rgb(61, 202, 245);
@@ -41,7 +41,7 @@ body {
   position: static;
   background-color: rgb(255, 170, 101);
   height: 200px;
-} */
+}
 
 /*       Relative Positioning        */
 
@@ -104,6 +104,14 @@ body {
 
 /*       Absolute Positioning       */
 
+/*       Please copy below and paste to box-one class, enter any number in the "??"       */
+
+/*       Please change "0px" in the top property        */
+
+/*       bottom: ??px;       */
+/*       left: ??px;       */
+/*       right: ??px;       */
+
 /* .main-box {
   padding: 10px;
   position: static;
@@ -116,6 +124,7 @@ body {
   position: absolute;
   background-color: rgb(105, 224, 94);
   height: 200px;
+  width: 1000px;
   top: 0px;
 }
 
@@ -130,6 +139,14 @@ body {
 } */
 
 /*       Fixed Positioning       */
+
+/*       Please copy below and paste to box-one class, enter any number in the "??"       */
+
+/*       Please change "0px" in the top property        */
+
+/*       bottom: ??px;       */
+/*       left: ??px;       */
+/*       right: ??px;       */
 
 /*  .main-box {
   padding: 10px;
@@ -158,6 +175,14 @@ body {
 } */
 
 /*       Sticky Positioning       */
+
+/*       Please copy below and paste to box-one class, enter any number in the "??"       */
+
+/*       Please change "0px" in the top property        */
+
+/*       bottom: ??px;       */
+/*       left: ??px;       */
+/*       right: ??px;       */
 
 /* .main-box {
   padding: 10px;
